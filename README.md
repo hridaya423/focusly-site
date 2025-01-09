@@ -1,8 +1,8 @@
-# Focusly Landing Page
+![Focusly Logo](public/logo.png)
+
+# Focusly Website
 
 A modern, responsive landing page for Focusly - a Chrome extension designed to help users track and optimize their browsing time. Built with Next.js and features a sleek, animated dark theme with gradient accents.
-
-![Focusly Logo](public/logo.png)
 
 ## Features
 
@@ -24,3 +24,5 @@ A modern, responsive landing page for Focusly - a Chrome extension designed to h
    npm run dev
    ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+(AI used for README)
