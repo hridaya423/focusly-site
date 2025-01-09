@@ -151,7 +151,7 @@ export default function Home() {
               </span>
             </div>
             <div className="flex gap-8">
-              <Link href="/privacy" className="text-gray-400 hover:text-violet-400 transition-colors">
+              <Link href="https://github.com/hridaya423/focusly/blob/master/PRIVACY_POLICY.md" className="text-gray-400 hover:text-violet-400 transition-colors">
                 Privacy Policy
               </Link>
             </div>
