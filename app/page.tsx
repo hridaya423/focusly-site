@@ -44,7 +44,7 @@ export default function Home() {
             </span>
           </div>
           <Link 
-            href="https://chrome.google.com/webstore"
+            href="https://chromewebstore.google.com/detail/focusly/iaoekfdcbfaanclnnkopdeflfckighef?authuser=8&hl=en-GB"
             className="relative group px-8 py-3 rounded-xl bg-violet-600 hover:bg-violet-500 transition-colors overflow-hidden"
           >
             <span className="relative z-10 font-medium text-lg">Add to Chrome</span>
@@ -71,7 +71,7 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-8 justify-center items-center">
                 <Link
-                  href="https://chrome.google.com/webstore"
+                  href="https://chromewebstore.google.com/detail/focusly/iaoekfdcbfaanclnnkopdeflfckighef?authuser=8&hl=en-GB"
                   className="group relative px-12 py-6 rounded-xl bg-violet-600 hover:bg-violet-500 transition-colors w-full sm:w-auto overflow-hidden"
                 >
                   <span className="relative z-10 text-xl font-medium">Install Now</span>
